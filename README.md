@@ -1,4 +1,4 @@
-# Projeto Currículo Otimizado
+# Projeto Currículo Automatizado
 
 Projeto Node.js para ler arquivo CSV contendo links de vagas de emprego, baixar as descrições das vagas, e **gerar automaticamente currículos ATS-friendly otimizados** para cada vaga usando IA.
 

@@ -17,8 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^5.5.2",
-    "puppeteer": "^24.35.0",
+    "docx": "^9.5.1",
+    "dotenv": "^16.3.1",
     "openai": "^4.20.1",
-    "dotenv": "^16.3.1"
+    "puppeteer": "^24.35.0"
   }
 }
